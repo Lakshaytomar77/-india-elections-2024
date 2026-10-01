@@ -1,8 +1,5 @@
 # INDIA GENERAL ELECTION RESULTS ANALYSIS — 2024
 
-**Author:** Nitin Chauhan  
-**Contact:** linkedin.com/in/nitin-chauhan-9857a4255 / https://github.com/TheNitinChauhan
-
 ---
 
 ## Project summary
@@ -249,7 +246,4 @@ Use bookmarks for a guided tour and keep a 3-slide PDF summary for interviews.
 
 ---
 
-## Contact
-**Author:** Nitin Chauhan  
-linkedin.com/in/nitin-chauhan-9857a4255 / https://github.com/TheNitinChauhan
----
+
